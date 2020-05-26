@@ -15,3 +15,4 @@
   * 이 Repository의 기여자는 [해당 Repository](https://github.com/newbiepr/shinymaskr/)를 참고해주세요.
 * 또한, 이 앱은 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)을 따르는 [한국어 번역 데이터](https://docs.google.com/spreadsheets/d/12NpZ_Tq0OMAePUn-Wuu9lH0202L5f9nvJc1pEI5CM8M/)를 사용합니다.
   * 이 번역 데이터의 기여자는 [해당 링크](https://docs.google.com/spreadsheets/d/12NpZ_Tq0OMAePUn-Wuu9lH0202L5f9nvJc1pEI5CM8M/)에 기여한 사람과 [dcinside 샤이니컬러즈 마이너 갤러리](https://gall.dcinside.com/shinycolors)등에서 활동하는 여러 익명의 기여자입니다.
+* 그 외에 소스코드에 다른 이의 코드를 사용한 경우, 주석으로 표시했습니다.
