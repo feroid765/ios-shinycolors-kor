@@ -4,7 +4,7 @@
 * 샤니마스를 한국어로 즐길 수 있게 해주는 iOS 앱입니다.
 
 ### 사용 방법
-* 이 Repository 전체를 clone하거나 다운로드 받아 shinycolors.xcodeproj 파일을 XCode로 열면 됩니다.
+* 이 Repository 전체를 clone하거나 다운로드 받은 뒤 안에 있는 shinycolors.xcodeproj.zip 파일을 풀어 shinycolors.xcodeproj 파일을 XCode로 열면 됩니다.
 
 ### 유의사항
 * 이 앱은 샤이니컬러즈 컨텐츠를 iOS에서 한국어로 이용할 수 있게 해주는 앱입니다. 다만 이는 enza가 공인한 방법이 아니기 때문에 계정 밴의 위험성이 있음을 알립니다.
